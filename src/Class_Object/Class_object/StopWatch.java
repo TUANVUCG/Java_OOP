@@ -1,3 +1,5 @@
+package Class_Object.Class_object;
+
 public class StopWatch {
      double startTime;
      double endTime;

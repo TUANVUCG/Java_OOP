@@ -1,3 +1,5 @@
+package Class_Object.Class_object;
+
 public class Rectangle {
     int height;
     int width;
@@ -29,7 +31,7 @@ public class Rectangle {
     }
     @Override
     public String toString() {
-        return "Rectangle{" +
+        return "Class_object.Rectangle{" +
                 "height=" + height +
                 ", width=" + width +
                 ", area=" + getArea() +

@@ -1,3 +1,5 @@
+package Class_Object.Class_object;
+
 public class FanClass {
     private static final int  SLOW = 1;
     private static final int  MEDIUM = 2;
